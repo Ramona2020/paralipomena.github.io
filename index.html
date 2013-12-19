@@ -1,0 +1,83 @@
+---
+layout: default
+title: Topics in Digital Humanities
+---
+
+<div class="jumbotron hero-spacer">
+	<img style="float:right;" src="/images/book.png" alt="By Meuble_héraldique_livre.svg: Bluebear2 derivative work: Alekjds (Meuble_héraldique_livre.svg) [CC-BY-SA-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons"/>
+	<h1>{{ site.name }}</h1>
+	<h2>Introduction to Digital Text Editing and Analysis</h2>
+</div>
+
+<div class="row">
+	<div class="col-lg-12">
+		<h2>Abstract</h2>
+		This course provides an introduction to the theory and methods of the digital humanities from the disciplinary perspectives of history and religious studies. The course is designed for graduate students of history, religion, historical theology or classics who would like to acquire research skills in the techniques of digital text editiing and analysis. Students will learn the fundamentals of digital text editing and the computational analysis of digital corpora. Students will also engage with theorectical questions concerning the nature of texts and the challenge of representing the past through new media. By the conclusion of the course, students will have built a working propotype of a digital database specific to their research needs.
+	</div>
+</div>
+
+<hr/>
+
+<div class="panel panel-default">
+	<div class="panel-heading">
+		<h3 class="panel-title">Latest Posts</h3>
+	</div>
+	<div class="panel-body">
+		<div id="home">
+			<ul class="posts">
+				{% for post in site.posts %}
+				<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+</div>
+
+<hr/>
+
+<div class="row text-center">
+
+	<div class="col-lg-3 col-md-6 hero-feature">
+		<div class="thumbnail">
+			<img src="/images/syllabus.jpg" alt="Kharakhoto Tangut [Public Domain], via Wikimedia Commons">
+			<div class="caption">
+				<h3>Syllabus</h3>
+				<p>Course Syllabus</p>
+				<p><a href="#" class="btn btn-default">More Info</a></p>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-lg-3 col-md-6 hero-feature">
+		<div class="thumbnail">
+			<img src="/images/marblepaper.jpg" alt="By English: Creator of the paper unknown. Scanned by Aristeas from a book in his own possession. Deutsch: Hersteller des Papieres unbekannt. Gescannt von Aristeas aus einem Buch in seinem Besitz. (Own work) [Public domain], via Wikimedia Commons">
+			<div class="caption">
+				<h3>Readings</h3>
+				<p>Course Readings</p>
+				<p><a href="#" class="btn btn-default">More Info</a></p>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-lg-3 col-md-6 hero-feature">
+		<div class="thumbnail">
+			<img src="/images/technology.jpg" alt="See page for author [Public domain], via Wikimedia Commons">
+			<div class="caption">
+				<h3>Technology</h3>
+				<p>Course Technologies</p>
+				<p><a href="#" class="btn btn-default">More Info</a></p>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-lg-3 col-md-6 hero-feature">
+		<div class="thumbnail">
+			<img src="/images/binary.jpg" alt="Binary Code By Cncplayer (Own work) [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" >
+			<div class="caption">
+				<h3>Code</h3>
+				<p>Code Snippets</p>
+				<p><a href="#" class="btn btn-default">More Info</a></p>
+			</div>
+		</div>
+	</div>
+</div><!-- /.row -->
