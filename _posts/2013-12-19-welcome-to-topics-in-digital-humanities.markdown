@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Topics in Digital Humanities!"
-date:   2013-12-04 15:47:57
+date:   2013-12-19 23:18:48 UTC
 categories: jekyll update
 ---
 
-Here's an example of FizzBuzz using XQuery:
-
-{% gist 6025846 %}
+We're really glad that you've enrolled in the course!
