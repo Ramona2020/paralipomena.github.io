@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Topics in Digital Humanities!"
+author: Cliff
 date:   2013-12-19 23:18:48 UTC
 categories: jekyll update
 ---

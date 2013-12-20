@@ -1,3 +1,20 @@
 name: Topics in Digital Humanities
 markdown: redcarpet
 pygments: true
+authors:
+  Cliff:
+    name: Cliff Anderson
+    display_name: Cliff Anderson
+    gravatar: 952b9d5a0c3ce78a8ff88bf10975e687
+    email: clifford.anderson@vanderbilt.edu	
+    web: http://library.vanderbilt.edu/scholarly/
+    twitter: andersoncliffb
+    github: CliffordAnderson
+  Dave:
+    name: David Michelson
+    display_name: Dave Michelson
+    gravatar: 
+    email: david.a.Michelson@vanderbilt.edu
+    web: http://www.vanderbilt.edu
+    twitter: 
+    github: 

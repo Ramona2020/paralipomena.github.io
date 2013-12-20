@@ -18,15 +18,13 @@ title: Topics in Digital Humanities
 
 <hr/>
 
-<div class="panel panel-default">
-	<div class="panel-heading">
-		<!-- See https://gist.github.com/nimbupani/1421828 -->
-		<div class="blog-index">  
-  			{% assign post = site.posts.first %}
-  			{% assign content = post.content %}
-  			{% include post_detail.html %}
-		</div>
-	</div>
+
+<!-- See https://gist.github.com/nimbupani/1421828 -->
+<div class="blog-index">
+	<h2>Latest News</h2>  
+	{% assign post = site.posts.first %}
+	{% assign content = post.content %}
+	{% include post_detail.html %}
 </div>
 
 <hr/>
