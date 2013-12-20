@@ -6,3 +6,5 @@ categories: jekyll update
 ---
 
 We're really glad that you've enrolled in the course!
+
+{% gist 8034262 %}
