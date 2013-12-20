@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Michelson Test Post!"
-date:   2013-12-20 10:53:48 UTC
-categories: jekyll update
----
-
-Testing!
