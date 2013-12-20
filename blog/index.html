@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<div class="jumbotron hero-spacer">
+	<img style="float:right;" src="/images/book.png" alt="By Meuble_héraldique_livre.svg: Bluebear2 derivative work: Alekjds (Meuble_héraldique_livre.svg) [CC-BY-SA-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons"/>
+	<h1>{{ site.name }}</h1>
+	<h2>Introduction to Digital Text Editing and Analysis</h2>
+</div>
+
+<div class="row">
+	<div class="col-lg-12">
+		<h2>Course Blog</h2>
+		<h2>{{ page.title }}</h2>
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h3 class="panel-title">Latest Posts</h3>
+			</div>
+			<div class="panel-body">
+				<div id="home">
+					<ul class="posts">
+						{% for post in site.posts %}
+						<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

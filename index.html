@@ -20,15 +20,11 @@ title: Topics in Digital Humanities
 
 <div class="panel panel-default">
 	<div class="panel-heading">
-		<h3 class="panel-title">Latest Posts</h3>
-	</div>
-	<div class="panel-body">
-		<div id="home">
-			<ul class="posts">
-				{% for post in site.posts %}
-				<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-				{% endfor %}
-			</ul>
+		<!-- See https://gist.github.com/nimbupani/1421828 -->
+		<div class="blog-index">  
+  			{% assign post = site.posts.first %}
+  			{% assign content = post.content %}
+  			{% include post_detail.html %}
 		</div>
 	</div>
 </div>

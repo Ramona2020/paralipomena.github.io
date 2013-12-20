@@ -1,0 +1,13 @@
+<!--See https://gist.github.com/nimbupani/1421828 -->
+<div>
+	<h3 class="entry-title">
+		{% if page.title %}
+		<a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a>
+		{% endif %}
+		{% if post.title %}
+		<a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+		{% endif %}
+	</h3>
+		<p class="entry-content">{{ post.content | strip_html | truncatewords:75}}... <a href="{{ root_url }}{{ post.url }}">read more</a>
+		</p>
+</div>
