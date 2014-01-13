@@ -96,5 +96,15 @@ Recommended Exercises:
 * TEI by Example, Modules 0 to 3.
 * Required Response Paper: Identify and review an XML based digital humanities project relevant to your research or vocational interests.
 
+Ways to find projects using TEI:
+
+* [TEI Wiki](http://wiki.tei-c.org/index.php/Samples)
+* [TEI Council](http://www.tei-c.org/Activities/Projects/)
+* [Journal of the TEI](http://journal.tei-c.org/journal/index)
+
+Ask on a list:
+
+* [TEI-L](http://www.tei-c.org/Support/index.xml#tei-l)
+* [MARKUP List](http://lsv.uky.edu/scripts/wa.exe?SUBED1=markup&A=1)
 
 				
