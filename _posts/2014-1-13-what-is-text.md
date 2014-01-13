@@ -3,7 +3,7 @@ layout: post
 title:  "What is Text?"
 author: Cliff
 date:   2014-1-13 05:08:00 UTC
-categories: text
+categories: blog
 ---
 
 ##What is the right model for digital text?

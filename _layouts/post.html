@@ -4,11 +4,11 @@ layout: default
 {% assign author = site.authors[page.author] %}
 <!--Authorship assignment thanks to https://gist.github.com/ravasthi/1834570 -->
 <h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<p class="meta">{{ page.date | date_to_string }} by {{ author.display_name }}</p>
 
 <div class="post">
 	{{ content }}
 </div>
 <p class="byline">
-      by {{ author.display_name }}
+    Response? Tweet to <<a href="http://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a> 
 </p> <!-- /.byline -->
