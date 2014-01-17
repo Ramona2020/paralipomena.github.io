@@ -27,7 +27,11 @@ title: Topics in Digital Humanities
 <!-- See https://gist.github.com/nimbupani/1421828 -->
 <div class="blog-index">
 	<h2>Latest News</h2>  
-	{% assign post = site.posts.first %}
+	{% assign post = site.posts[0] %}
+	{% assign content = post.content %}
+	{% include post_detail.html %}
+
+	{% assign post = site.posts[1] %}
 	{% assign content = post.content %}
 	{% include post_detail.html %}
 </div>
