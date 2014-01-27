@@ -20,7 +20,7 @@ You could also search the index of:
 
 * [The Journal of the TEI](http://journal.tei-c.org/journal/index)
 
-You could also join a mailing list and ask about projects relevant to your interests:
+You could also search the archives of a mailing list and or join and ask about projects relevant to your interests:
 
 * [TEI-L](http://www.tei-c.org/Support/index.xml#tei-l)
 * [MARKUP List](http://lsv.uky.edu/scripts/wa.exe?SUBED1=markup&A=1)
