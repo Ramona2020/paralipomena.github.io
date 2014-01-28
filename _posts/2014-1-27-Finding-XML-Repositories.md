@@ -10,6 +10,8 @@ Just a bit of help as you work on finding your XML or TEI repositories for next 
 
 First you might want to look at the data we have collected here (and trace it back to its source): [https://github.com/paralipomena](https://github.com/paralipomena)
 
+There is also an excellent repository curated by Hugh Cayless of Duke University here: [https://github.com/TEI-examples/tei-examples](https://github.com/TEI-examples/tei-examples)
+
 Next you should look over these list of links:
 
 * [TEI Wiki](http://wiki.tei-c.org/index.php/Samples)
