@@ -10,7 +10,7 @@ As you know, we will be discussing [XPath](http://www.w3.org/TR/xpath-30/) durin
 
 Here's the input document we'll be using as a reference at our next meeting.
 
-{{ gist 8671757 }}
+{% gist 8671757 %}
 
 As you see, it's basically a bare bones TEI document. So how can XPath help us to explore the nodes and atomic values in this document? Let's try a few examples:
 
