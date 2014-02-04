@@ -40,13 +40,13 @@ As you see, it's basically a bare bones TEI document. So how can XPath help us t
 * Write an expression to select the third p element that is a child of the body element.
 
 	```
-	/body/p[3]
+	//body/p[3]
 	```
 	
 * Write an expression to select only the text node of the same p element.
 
 	```
-	/body/p[3]/text()
+	//body/p[3]/text()
 	```
 	
 * Write an expression to select only the first and second p child elements of the body element.
