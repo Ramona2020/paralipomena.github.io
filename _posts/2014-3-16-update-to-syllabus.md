@@ -14,7 +14,7 @@ Instead, our plan for tomorrow will be a bit of a catch and regroup week as foll
 
 1. As assigned in class last week, please come prepared with a list of three specific questions or transformations for your data for which you would like to write formal xqueries for. We will break into groups and try to write as many as we can. This will be the bulk of time.
 
-2. We will also try to catch up on the following items from previous weeks that did not get enough attention, so please dust of your memory:
+2. We will also try to catch up on the following items from previous weeks that did not get enough attention, so please dust off your memory:
 
 	a. We will discuss Stephen Ramsay, <a
                         href="http://site.ebrary.com.proxy.library.vanderbilt.edu/lib/vanderbilt/docDetail.action?docID=10532315"
