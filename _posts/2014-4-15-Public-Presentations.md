@@ -6,7 +6,7 @@ date:   2014-4-15 0	14:38:00 UTC
 categories: blog
 ---
 
-The Vanderbilt University community is invited to join our course for public presentations of student research using XML and XQuery. The ten-minue presentations will run from 2:10-3:00 p.m. and be held in [Furman 003 (Center for Second Language Studies)](https://goo.gl/maps/Rukyq). The presentations are open the university community.
+The Vanderbilt University community is invited to join our course on Monday, April 21 for public presentations of student research using XML and XQuery. The ten-minute presentations will run from 2:10-3:00 p.m. and be held in [Furman 003 (Center for Second Language Studies)](https://goo.gl/maps/Rukyq). The presentations are open the university community.
 
 * "Indivisible Content and Form: A Prototype of Image Citation in the Syriaca.org Projects," Tucker Hannah
 
