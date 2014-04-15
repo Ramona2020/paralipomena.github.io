@@ -2,7 +2,7 @@
 layout: post
 title:  "Please join us for the final student presentations!"
 author: Dave
-date:   2014-15-7 0	14:38:00 UTC
+date:   2014-4-15 0	14:38:00 UTC
 categories: blog
 ---
 
